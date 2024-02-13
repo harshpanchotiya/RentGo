@@ -1,0 +1,64 @@
+.bg-image{
+    background-image: url(https://demo.crocoblock.com/rentgo-new/wp-content/uploads/2020/07/frontpage_bg-scaled-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-img{
+    margin-top: 2%;
+	margin-left: 45%;
+	height: 45px;
+	width: 145px;
+}
+.space{
+    margin-top: 1%;
+    padding: 50px;
+}
+.form{
+    margin-left: 80px;
+	background-color:white;
+	width:450px;
+	height:550px;	
+	padding:20px 45px 35px 35px;
+}
+.box{
+    float: left;
+    width: 50% ;
+}
+.search{
+    height: 65px;
+}
+.second-page{
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.adjust{
+    margin-left: 15px;
+}
+.pic-gallary{
+    margin: 15px;
+	float: left;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pic-detail{
+    padding: 10px;
+}
+.big{
+    font-size: 25px;
+    color: #2c1058;
+}
+.button-blue{
+    background-color: #2c1058;
+    border-color: rgb(13, 13, 64);
+    float: right;
+    height: 50px;
+    width: 130px;
+    margin-bottom: 20px;
+}
+.button-blue:hover{
+    background-color: red;
+    border-color: red;
+}
+
+
